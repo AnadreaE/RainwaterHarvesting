@@ -16,6 +16,9 @@ This repository contains the **documentation, scripts, and workflow** of a pilot
 
 The project reproduces and adapts the methodology proposed by **Benegas (2022)** and applied by **Danilo Dusan (2023)**, integrating **QGIS, GDAL, and SAGA GIS** tools, and publishing the results as an **interactive WebMap built with OpenLayers**.
 
+Route to OpenLayer Map:
+file:///C:/GIS%20-%20CR/Experiment_SemCos_Agua/WebCosechaAgua/qgis2web_2026_09_23-17_15_04_340306/index.html
+
 > **Author:** Andrea E. Farfán Aragón
 
 ---
